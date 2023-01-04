@@ -1,0 +1,6 @@
+verilog work "wam_tch.v"
+verilog work "wam_tap.v"
+verilog work "wam_scr.v"
+verilog work "wam_led.v"
+verilog work "wam_gen.v"
+verilog work "wam_m.v"

@@ -1,0 +1,14 @@
+MO wam_rdn NULL wam_gen.v vlg48/wam__rdn.bin 1672380682
+MO wam_hrd NULL wam_tch.v vlg0A/wam__hrd.bin 1672380682
+MO wam_scr NULL wam_scr.v vlg60/wam__scr.bin 1672380682
+MO wam_tap NULL wam_tap.v vlg6D/wam__tap.bin 1672380682
+MO wam_led NULL wam_led.v vlg2D/wam__led.bin 1672380682
+MO wam_tch NULL wam_tch.v vlg6F/wam__tch.bin 1672380682
+MO wam_m NULL wam_m.v vlg51/wam__m.bin 1672380682
+MO wam_dis NULL wam_led.v vlg08/wam__dis.bin 1672380682
+MO wam_cnt NULL wam_scr.v vlg09/wam__cnt.bin 1672380682
+MO wam_obd NULL wam_led.v vlg69/wam__obd.bin 1672380682
+MO wam_gen NULL wam_gen.v vlg3A/wam__gen.bin 1672380682
+MO wam_lst NULL wam_led.v vlg03/wam__lst.bin 1672380682
+MO wam_par NULL wam_tch.v vlg0B/wam__par.bin 1672380682
+MO wam_hit NULL wam_tap.v vlg6D/wam__hit.bin 1672380682
